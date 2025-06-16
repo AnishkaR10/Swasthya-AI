@@ -1,3 +1,6 @@
 [submodule "bmi-calculator"]
 	path = bmi-calculator
 	url = https://github.com/AnishkaR10/BMI-Calculator.git
+[submodule "mood-fm"]
+	path = mood-fm
+	url = https://github.com/SPareshKumar/Mood.FM.git
