@@ -50,13 +50,13 @@
 
 > This repository uses *Git submodules*. To correctly clone the project and fetch all feature modules, run:
 
-'''bash
-git clone --recurse-submodules https://github.com/AnishkaR10/Swasthya-AI.git
+```bash
+git clone --recurse-submodules https://github.com/SPareshKumar/SwasthyaAI.git
 
 
 If you've already cloned the repo, run:
 
-'''bash
+```bash
 git submodule update --init --recursive
 
 
@@ -73,8 +73,8 @@ SwasthyaAI brings everything together to support your body and mind:
 
 ## 🧑‍💻 Contributors
 
-- [AnishkaR10](https://github.com/AnishkaR10)
 - [SPareshKumar](https://github.com/SPareshKumar)
+- [AnishkaR10](https://github.com/AnishkaR10)
 
 ---
 
