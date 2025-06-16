@@ -1,0 +1,3 @@
+[submodule "bmi-calculator"]
+	path = bmi-calculator
+	url = https://github.com/AnishkaR10/BMI-Calculator.git
