@@ -4,3 +4,6 @@
 [submodule "mood-fm"]
 	path = mood-fm
 	url = https://github.com/SPareshKumar/Mood.FM.git
+[submodule "vital-cart"]
+	path = vital-cart
+	url = https://github.com/AnishkaR10/VitalCart.git
