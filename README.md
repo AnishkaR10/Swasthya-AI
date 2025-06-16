@@ -51,7 +51,7 @@
 > This repository uses *Git submodules*. To correctly clone the project and fetch all feature modules, run:
 
 bash
-git clone --recurse-submodules https://github.com/SPareshKumar/SwasthyaAI.git
+git clone --recurse-submodules https://github.com/AnishkaR10/Swasthya-AI.git
 
 
 If you've already cloned the repo, run:
